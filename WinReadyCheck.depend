@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1745317209 source:c:\users\core_four\desktop\desktop projects\winreadycheck\winreadycheck\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<comdef.h>
+	<wbemidl.h>
+	<sstream>
+	<map>
+	<winreg.h>
+	<wincon.h>
+	<limits>
+	<ios>
+	<cwchar>
+	<cctype>
+
