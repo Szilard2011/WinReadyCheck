@@ -7,7 +7,7 @@ WinReadyCheck is a standalone desktop utility designed to help you determine if 
 **Why use it?**
 Works Offline: No internet connection required after downloading the tool. Perfect for checking machines without access or for privacy.
 
-**Broad Compatibility:**
+**Broad Compatibility**
 Runs on very old systems (like XP) and checks requirements for various older and newer Windows versions.
 Demystifies Requirements: Helps understand complex requirements like TPM version and Secure Boot, especially for Windows 11.
 
